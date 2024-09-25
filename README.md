@@ -235,7 +235,7 @@ ou
 
 ### JOAO ANTONIO FAUSTINO DE BARROS
 ### JOAO GABRIEL CAVALCANTE LEITAO
-[Atividade II](https://github.com/GabrielCavalcante123/hello-world.git)
+[Atividade II](https://github.com/GabrielCavalcante123/hello-world.git) [Atividade I](https://github.com/GabrielCavalcante123/GabrielCavalcante123-Office.git)[Atividade III](https://github.com/GabrielCavalcante123/projeto-integrador2.git)
 ### JOAO LUCAS CUNHA DA COSTA
 ### JUNIOR ALMEIDA DAS CHAGAS
 ### LAISSA ALCANTARA GOMES
